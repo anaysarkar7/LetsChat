@@ -24,16 +24,14 @@ Backend is deployed on Heroku, frontend is deployed on Netlify.
 ## Work flow
 * Users input name and room to join chat.
 
-![Image](https://github.com/daniel-liemng/chat_socketio_react_node/blob/master/screenshot/chat-1.png "Join Page")
 
 * Users in the same room can chat together, list of joined users is displayed
 
-![Image](https://github.com/daniel-liemng/chat_socketio_react_node/blob/master/screenshot/chat-2.png "Chat Page")
 
 ## Getting started
 **1.** In order to run this app, you need to have `node.js` installed.
 
-**2.** `git clone https://github.com/daniel-liemng/chat_socketio_react_node.git`
+**2.** `git clone repo_link`
 
 **3.** Install server-side dependencies and start running:
   ```
