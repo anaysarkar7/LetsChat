@@ -1,7 +1,6 @@
 # Chat App with Socket.io
 A real time chat app built with Socket.io, React, Node, Express, Material-UI
 
-[Live website](https://chat-react-node-socketio.netlify.app)
 
 ## Table of Contents
 * [About](#about)
